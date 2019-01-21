@@ -180,23 +180,23 @@ death-messages:
     IronGolem:
       - "Mängija %plrtag% tapeti raudmehe poolt"
     Llama:
-      - "%plrtag% was slain by Llama"
+      - "Mängija %plrtag% tapeti laama poolt"
     MagmaCube:
       - "Mängija %plrtag% tapeti magmakuubi poolt"
     Mooshroom:
       - "%plrtag% was slain by Mooshroom"
     Mule:
-      - "%plrtag% was slain by Mule"
+      - "Mängija %plrtag% tapeti muula poolt"
     Parrot:
-      - "%plrtag% was slain by Parrot"
+      - "Mängija%plrtag% tapeti papagoi poolt"
     Pig:
-      - "%plrtag% was slain by Pig"
+      - "Mängija %plrtag% tapeti sea poolt"
     PolarBear:
       - "Mängija %plrtag% tapeti jääkaru poolt"
     Rabbit:
       - "Mängija %plrtag% tapeti jänese poolt"
     Sheep:
-      - "%plrtag% was slain by Sheep"
+      - "Mängija %plrtag% tapeti lamba poolt"
     Shulker:
       - "Mängija %plrtag% tapeti plokikoletise poolt"
     Silverfish:
